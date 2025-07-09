@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Upload Cutoff PDF</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+  <div class="bg-white shadow-md rounded p-8 max-w-md w-full">
+    <h1 class="text-2xl font-bold mb-4">Upload University Cutoff PDF</h1>
+    <form method="POST" enctype="multipart/form-data">
+      <div class="mb-4">
+        <label class="block font-semibold">Select PDF:</label>
+        <input type="file" name="pdf" accept=".pdf" class="mt-1 block w-full border rounded p-2" required>
+      </div>
+      <div class="mb-4">
+        <label class="block font-semibold">University Name:</label>
+        <input type="text" name="university" class="mt-1 block w-full border rounded p-2" placeholder="e.g. Kyambogo" required>
+      </div>
+      <button type="submit" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Upload & Extract</button>
+    </form>
+  </div>
+</body>
+</html>

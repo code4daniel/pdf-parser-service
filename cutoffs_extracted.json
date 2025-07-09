@@ -1,0 +1,956 @@
+[
+  {
+    "course_name": "Bachelor of Science in Accounting (Evening) MUBS",
+    "course_code": "ACC",
+    "cutoff_all": 14.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Afternoon) Mak.",
+    "course_code": "ADA",
+    "cutoff_all": 39.4,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Day) Jinja - Mak.",
+    "course_code": "ADJ",
+    "cutoff_all": 14.2,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Day) Mak.",
+    "course_code": "ADM",
+    "cutoff_all": 39.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Agricultural Engineering (Day)",
+    "course_code": "AGE",
+    "cutoff_all": 43.3,
+    "cutoff_female": 36.4
+  },
+  {
+    "course_name": "Bachelor of Agribusiness Management (Day)",
+    "course_code": "AGM",
+    "cutoff_all": 35.0,
+    "cutoff_female": 35.1
+  },
+  {
+    "course_name": "Bachelor of Science in Agriculture (Day)",
+    "course_code": "AGR",
+    "cutoff_all": 36.3,
+    "cutoff_female": 34.5
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Mbale) MUBS - Evening",
+    "course_code": "AML",
+    "cutoff_all": 18.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Applied Psychology (Day)",
+    "course_code": "APS",
+    "cutoff_all": 42.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Applied Psychology (Evening)",
+    "course_code": "APY",
+    "cutoff_all": 35.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Architecture (Day)",
+    "course_code": "ARC",
+    "cutoff_all": 49.5,
+    "cutoff_female": 49.1
+  },
+  {
+    "course_name": "Bachelor of Arts (Arts) - Day",
+    "course_code": "ARS",
+    "cutoff_all": 14.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor Arts (Social Sciences) (Evening)",
+    "course_code": "ASE",
+    "cutoff_all": 16.0,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Arts (Social Sciences) (Day)",
+    "course_code": "ASS",
+    "cutoff_all": 16.5,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Adult and Community Education (Day)",
+    "course_code": "BAC",
+    "cutoff_all": 23.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Agricultural Extension and Rural Innovation (Day)",
+    "course_code": "BAI",
+    "cutoff_all": 31.3,
+    "cutoff_female": 31.3
+  },
+  {
+    "course_name": "Bachelor of Animal Production Tech & Mgt (Day)",
+    "course_code": "BAP",
+    "cutoff_all": 31.9,
+    "cutoff_female": 30.8
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Evening) MUBS",
+    "course_code": "BBA",
+    "cutoff_all": 22.4,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Computing (Day)",
+    "course_code": "BBC",
+    "cutoff_all": 31.1,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Day) MUBS",
+    "course_code": "BBD",
+    "cutoff_all": 26.4,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Computing (Evening) MUBS",
+    "course_code": "BBE",
+    "cutoff_all": 28.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Biomedical Engineering (Day)",
+    "course_code": "BBI",
+    "cutoff_all": 45.7,
+    "cutoff_female": 42.5
+  },
+  {
+    "course_name": "Bachelor of Business Computing (Jinja) Day",
+    "course_code": "BBJ",
+    "cutoff_all": 16.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Bioprocessing Engineering",
+    "course_code": "BBP",
+    "cutoff_all": 39.1,
+    "cutoff_female": 36.1
+  },
+  {
+    "course_name": "Bachelor of Science in Biotechnology (Day)",
+    "course_code": "BBT",
+    "cutoff_all": 35.8,
+    "cutoff_female": 33.2
+  },
+  {
+    "course_name": "Bachelor of Science in Conservation Biology (Day)",
+    "course_code": "BCB",
+    "cutoff_all": 19.2,
+    "cutoff_female": 20.3
+  },
+  {
+    "course_name": "Bachelor of Adult and Community Education (Evening)",
+    "course_code": "BCE",
+    "cutoff_all": 17.4,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Dental Surgery (Day)",
+    "course_code": "BDS",
+    "cutoff_all": 47.7,
+    "cutoff_female": 45.4
+  },
+  {
+    "course_name": "Bachelor of Science in Dental Laboratory Technology",
+    "course_code": "BDT",
+    "cutoff_all": 38.5,
+    "cutoff_female": 38.2
+  },
+  {
+    "course_name": "Bacholor of Arts in Economics (Day) MUBS",
+    "course_code": "BEC",
+    "cutoff_all": 13.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Environmental Health Science",
+    "course_code": "BEH",
+    "cutoff_all": 35.8,
+    "cutoff_female": 34.2
+  },
+  {
+    "course_name": "Bachelor of Enterprenuership (Day) MUBS",
+    "course_code": "BEN",
+    "cutoff_all": 16.1,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Early Childhood Care and Education",
+    "course_code": "BEY",
+    "cutoff_all": 17.1,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Fine Art",
+    "course_code": "BFA",
+    "cutoff_all": 29.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Fisheries and Aquaculture (Day)",
+    "course_code": "BFS",
+    "cutoff_all": 22.4,
+    "cutoff_female": 22.6
+  },
+  {
+    "course_name": "Bachelor of Geographical Sciences (Day)",
+    "course_code": "BGS",
+    "cutoff_all": 32.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor in Science in Human Nutrition & Dietetics",
+    "course_code": "BHD",
+    "cutoff_all": 38.6,
+    "cutoff_female": 38.0
+  },
+  {
+    "course_name": "Bachelor of Human Resource Mgt (Evening) MUBS",
+    "course_code": "BHE",
+    "cutoff_all": 28.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "BSc in Tourism and Hospitality Mgt (Day)- Jinja Mak",
+    "course_code": "BHJ",
+    "cutoff_all": 14.4,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Human Resource Management (Day) MUBS",
+    "course_code": "BHM",
+    "cutoff_all": 28.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Infor Sys & Technology (Eveing) Jinja - Mak",
+    "course_code": "BIA",
+    "cutoff_all": 18.0,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of International Business (Day) MUBS",
+    "course_code": "BIB",
+    "cutoff_all": 23.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Industrial Chemistry (Day)",
+    "course_code": "BIC",
+    "cutoff_all": 39.4,
+    "cutoff_female": 34.9
+  },
+  {
+    "course_name": "Bachelor of Industrial Art & Applied Design (Day)",
+    "course_code": "BID",
+    "cutoff_all": 38.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Office and Information Management (Day)",
+    "course_code": "BIM",
+    "cutoff_all": 15.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Agricultural Extension and Rural Innovation (Ext)",
+    "course_code": "BIX",
+    "cutoff_all": 28.1,
+    "cutoff_female": 25.5
+  },
+  {
+    "course_name": "BSc in Tourism and Hospitality Mgt (Afternoon)- Jinja Mak",
+    "course_code": "BJA",
+    "cutoff_all": 19.1,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Computing (Jinja) Evening",
+    "course_code": "BJB",
+    "cutoff_all": 18.1,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Journalism & Communication (Day)",
+    "course_code": "BJC",
+    "cutoff_all": 44.5,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Journalism & Communication (Evening)",
+    "course_code": "BJE",
+    "cutoff_all": 39.4,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Commerce (Jinja - MUBS) Evening",
+    "course_code": "BJJ",
+    "cutoff_all": 7.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Commerce (Jinja - MUBS) Day",
+    "course_code": "BJO",
+    "cutoff_all": 11.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Accounting Jinja - MUBS",
+    "course_code": "BJS",
+    "cutoff_all": 15.4,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Marketing (Evening)- MUBS",
+    "course_code": "BKE",
+    "cutoff_all": 14.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Industrial Livestock and Business (Day)",
+    "course_code": "BLB",
+    "cutoff_all": 21.4,
+    "cutoff_female": 18.8
+  },
+  {
+    "course_name": "Bachelor of Leisure, Events and Hotel Mgt (Day) Jinja - MUBS",
+    "course_code": "BLC",
+    "cutoff_all": 13.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Library and Information Science (Evening)",
+    "course_code": "BLE",
+    "cutoff_all": 14.2,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor Leadership and Governance (Day)",
+    "course_code": "BLG",
+    "cutoff_all": 15.7,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Leisure, Events & Hotel Mananement (Day)",
+    "course_code": "BLM",
+    "cutoff_all": 15.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Biomedical Laboratory Technology (Evening)",
+    "course_code": "BLT",
+    "cutoff_all": 41.9,
+    "cutoff_female": 39.2
+  },
+  {
+    "course_name": "Bachelor of Science in Accounting (Mbarara) Day",
+    "course_code": "BMA",
+    "cutoff_all": 13.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Mbale) MUBS",
+    "course_code": "BML",
+    "cutoff_all": 14.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Adminstration (Day) Mbarara",
+    "course_code": "BMM",
+    "cutoff_all": 17.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Medical Radiography (Day)",
+    "course_code": "BMR",
+    "cutoff_all": 44.3,
+    "cutoff_female": 45.4
+  },
+  {
+    "course_name": "Bachelor of Marketing (Day)",
+    "course_code": "BMS",
+    "cutoff_all": 15.4,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Enterprenuership (Evening) MUBS",
+    "course_code": "BNE",
+    "cutoff_all": 14.4,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Eve) Mbarara - MUBS",
+    "course_code": "BNM",
+    "cutoff_all": 14.0,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Forestry",
+    "course_code": "BOF",
+    "cutoff_all": 30.2,
+    "cutoff_female": 29.1
+  },
+  {
+    "course_name": "Bachelor of Office and Information Management (Evening)",
+    "course_code": "BOM",
+    "cutoff_all": 14.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Biomedical Sciences (Day)",
+    "course_code": "BOS",
+    "cutoff_all": 38.7,
+    "cutoff_female": 37.1
+  },
+  {
+    "course_name": "BSc in Petroleum Geoscience and Production (Day)",
+    "course_code": "BPG",
+    "cutoff_all": 43.5,
+    "cutoff_female": 39.9
+  },
+  {
+    "course_name": "Bachelor of Leisure, Events and Hotel Mgt (Evening) MUBS",
+    "course_code": "BPL",
+    "cutoff_all": 16.7,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Population Studies (Day)",
+    "course_code": "BPS",
+    "cutoff_all": 15.0,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Optometry (Day)",
+    "course_code": "BPT",
+    "cutoff_all": 47.4,
+    "cutoff_female": 44.4
+  },
+  {
+    "course_name": "Bachelor of Science in Quantitative Economic (Day)",
+    "course_code": "BQE",
+    "cutoff_all": 29.2,
+    "cutoff_female": 29.6
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Day) Jinja - MUBS",
+    "course_code": "BRJ",
+    "cutoff_all": 13.5,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Real Estate Business Management (Day)",
+    "course_code": "BRM",
+    "cutoff_all": 15.7,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Eve) Jinja - MUBS",
+    "course_code": "BRO",
+    "cutoff_all": 12.7,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Accounting (Day) MUBS",
+    "course_code": "BSA",
+    "cutoff_all": 23.2,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Finance (Day) MUBS",
+    "course_code": "BSF",
+    "cutoff_all": 14.5,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Information Systems & Technology (Evening) Mak",
+    "course_code": "BSI",
+    "cutoff_all": 32.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Infor Systems and Technology (Day) Jinja - Mak",
+    "course_code": "BSJ",
+    "cutoff_all": 19.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Sci of Speech & Language Therapy (Day)",
+    "course_code": "BSL",
+    "cutoff_all": 40.3,
+    "cutoff_female": 37.1
+  },
+  {
+    "course_name": "Bachelor of Business Statistics (Evening) MUBS",
+    "course_code": "BST",
+    "cutoff_all": 8.2,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Eve) Arua - MUBS",
+    "course_code": "BSU",
+    "cutoff_all": 15.5,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Software Engineering (Day)",
+    "course_code": "BSW",
+    "cutoff_all": 44.7,
+    "cutoff_female": 40.2
+  },
+  {
+    "course_name": "Bachelor of International Business (Evening)",
+    "course_code": "BTB",
+    "cutoff_all": 17.0,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Tourism and Hospitality Mgt (Day)",
+    "course_code": "BTH",
+    "cutoff_all": 31.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Travel & Tourism Management (Day) MUBS",
+    "course_code": "BTT",
+    "cutoff_all": 16.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Urban & Regional Planning (Day)",
+    "course_code": "BUP",
+    "cutoff_all": 36.2,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Statistics (Day) MUBS",
+    "course_code": "BUS",
+    "cutoff_all": 10.2,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Visual Communication, Design & Multi-Media",
+    "course_code": "BVC",
+    "cutoff_all": 33.2,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Valuation",
+    "course_code": "BVL",
+    "cutoff_all": 38.4,
+    "cutoff_female": 37.8
+  },
+  {
+    "course_name": "Bachelor of Environmental Science (Day)",
+    "course_code": "BEV",
+    "cutoff_all": 32.6,
+    "cutoff_female": 32.5
+  },
+  {
+    "course_name": "BSc in Water and Irrigation Engineering",
+    "course_code": "BWE",
+    "cutoff_all": 42.8,
+    "cutoff_female": 37.3
+  },
+  {
+    "course_name": "Bachelor of Cytotechnology (Day)",
+    "course_code": "BYT",
+    "cutoff_all": 39.8,
+    "cutoff_female": 37.9
+  },
+  {
+    "course_name": "Bachelor of Youth Development Work (External)",
+    "course_code": "BYW",
+    "cutoff_all": 14.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "BSc in Computer and Communications Engineering (Day)",
+    "course_code": "CCE",
+    "cutoff_all": 34.6,
+    "cutoff_female": 23.5
+  },
+  {
+    "course_name": "Bachelor of Commerce (Afternoon)",
+    "course_code": "CEA",
+    "cutoff_all": 32.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Civil Engineering (Day)",
+    "course_code": "CIV",
+    "cutoff_all": 49.7,
+    "cutoff_female": 45.9
+  },
+  {
+    "course_name": "Bachelor of Commerce (Day) Mbarara - MUBS",
+    "course_code": "CMM",
+    "cutoff_all": 11.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Commerce (Evening) MUBS",
+    "course_code": "COB",
+    "cutoff_all": 9.0,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Commerce (Day) Makerere",
+    "course_code": "COE",
+    "cutoff_all": 37.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Commerce (Day) MUBS",
+    "course_code": "COM",
+    "cutoff_all": 19.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Procurement & Supply Chain Mgt (Day) Jinja - MUBS",
+    "course_code": "CRJ",
+    "cutoff_all": 16.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Procurement & Supply Chain Mgt (Eve) Jinja - MUBS",
+    "course_code": "CRO",
+    "cutoff_all": 13.7,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Computer Science (Day) Mak",
+    "course_code": "CSC",
+    "cutoff_all": 43.1,
+    "cutoff_female": 38.0
+  },
+  {
+    "course_name": "BSc in Computer Science (Evening) Mak",
+    "course_code": "CSE",
+    "cutoff_all": 41.1,
+    "cutoff_female": 36.1
+  },
+  {
+    "course_name": "BSc in Computer Science (Day) Jinja - Mak.",
+    "course_code": "CSJ",
+    "cutoff_all": 29.7,
+    "cutoff_female": 23.0
+  },
+  {
+    "course_name": "Diploma in Performing Arts (Day)",
+    "course_code": "DPA",
+    "cutoff_all": 16.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Arts in Economics (Afternoon) Mak",
+    "course_code": "ECE",
+    "cutoff_all": 21.7,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Arts in Economics (Evening) MUBS",
+    "course_code": "ECN",
+    "cutoff_all": 8.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Arts in Economics (Day) Mak",
+    "course_code": "ECO",
+    "cutoff_all": 28.4,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Arts with Education (Day)",
+    "course_code": "EDA",
+    "cutoff_all": 34.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science with Education (Biological) Day",
+    "course_code": "EDB",
+    "cutoff_all": 41.5,
+    "cutoff_female": 38.0
+  },
+  {
+    "course_name": "Bachelor of Science with Education (Physical) Day",
+    "course_code": "EDP",
+    "cutoff_all": 42.8,
+    "cutoff_female": 37.7
+  },
+  {
+    "course_name": "Bachelor of Science with Education (Economics) Day",
+    "course_code": "EEC",
+    "cutoff_all": 30.9,
+    "cutoff_female": 30.2
+  },
+  {
+    "course_name": "Bachelor of Science in Electrical Engineering (Day)",
+    "course_code": "ELE",
+    "cutoff_all": 48.9,
+    "cutoff_female": 43.8
+  },
+  {
+    "course_name": "BSc in Food Science and Technology (Day)",
+    "course_code": "FST",
+    "cutoff_all": 36.6,
+    "cutoff_female": 36.9
+  },
+  {
+    "course_name": "Bachelor of Human Resource Mgt (Evening) Mbale-MUBS",
+    "course_code": "HMA",
+    "cutoff_all": 18.0,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Human Resource Mgt (Day) Mbale",
+    "course_code": "HML",
+    "cutoff_all": 19.7,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Human Resource Mgt (Day) Mbarara - MUBS",
+    "course_code": "HNM",
+    "cutoff_all": 18.5,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Human Resource Mgt (Eve) Mbarara - MUBS",
+    "course_code": "HOM",
+    "cutoff_all": 20.7,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Human Resource Mgt (Day) Jinja - MUBS",
+    "course_code": "HSJ",
+    "cutoff_all": 18.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Human Resource Mgt (Jinja) Evening",
+    "course_code": "HSO",
+    "cutoff_all": 14.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Information Sys and Technology",
+    "course_code": "IST",
+    "cutoff_all": 36.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Business Administration (Afternoon) Jinja - Mak",
+    "course_code": "JAA",
+    "cutoff_all": 19.0,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Entreprenuership (Jinja ) Day",
+    "course_code": "JBE",
+    "cutoff_all": 17.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "BSc in Computer Science (Afternoon) Jinja - Mak",
+    "course_code": "JCA",
+    "cutoff_all": 16.7,
+    "cutoff_female": 19.7
+  },
+  {
+    "course_name": "Bachelor of Commerce (Afternoon) Jinja - Mak",
+    "course_code": "JOA",
+    "cutoff_all": 12.0,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor Leadership and Governance (Evening)",
+    "course_code": "LGM",
+    "cutoff_all": 14.2,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Library and Information Science (Day)",
+    "course_code": "LIS",
+    "cutoff_all": 27.2,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "BSc in Land Surveying & Geomatics (Day)",
+    "course_code": "LSG",
+    "cutoff_all": 47.0,
+    "cutoff_female": 43.7
+  },
+  {
+    "course_name": "Bachelor of Medicine & Bachelor of Surgery (Day)",
+    "course_code": "MAM",
+    "cutoff_all": 49.7,
+    "cutoff_female": 46.3
+  },
+  {
+    "course_name": "Bachelor of Science in Mechanical Engineering (Day)",
+    "course_code": "MEC",
+    "cutoff_all": 47.9,
+    "cutoff_female": 43.0
+  },
+  {
+    "course_name": "Bachelor of Biomedical Laboratory Technology (Day)",
+    "course_code": "MLT",
+    "cutoff_all": 41.9,
+    "cutoff_female": 40.4
+  },
+  {
+    "course_name": "Bachelor of Arts in Music (Day)",
+    "course_code": "MUS",
+    "cutoff_all": 14.7,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Nursing Science (Day)",
+    "course_code": "NUR",
+    "cutoff_all": 44.7,
+    "cutoff_female": 43.3
+  },
+  {
+    "course_name": "Bachelor of Pharmancy (Day)",
+    "course_code": "PHA",
+    "cutoff_all": 48.9,
+    "cutoff_female": 46.1
+  },
+  {
+    "course_name": "Bachelor of Procurement & Supply Chain Mgt (Evening) Mbale",
+    "course_code": "PMA",
+    "cutoff_all": 18.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Procurement & Supply Chain Mgt (Day) Mbale",
+    "course_code": "PML",
+    "cutoff_all": 49.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Procurement & Supply Chain Mgt (Day) Mbarara",
+    "course_code": "PMM",
+    "cutoff_all": 15.2,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Procurement & Supply Chain Mgt (Day) Mbarara",
+    "course_code": "PNM",
+    "cutoff_all": 14.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Procurement and Supply Chain Mgt (Evening) MUBS",
+    "course_code": "PSC",
+    "cutoff_all": 19.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Procuremennt and Supply Chain Mgt (Day) MUBS",
+    "course_code": "PSM",
+    "cutoff_all": 26.9,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Procurement & Supply Chain Mgt (Eve) Arua - MUBS",
+    "course_code": "PSU",
+    "cutoff_all": 16.5,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Science in Actuarial Science (Day)",
+    "course_code": "SAS",
+    "cutoff_all": 25.3,
+    "cutoff_female": 25.3
+  },
+  {
+    "course_name": "Bachelor of Science (Biological) Day",
+    "course_code": "SCB",
+    "cutoff_all": 26.5,
+    "cutoff_female": 26.8
+  },
+  {
+    "course_name": "Bachelor of Science (Physical) Day",
+    "course_code": "SCP",
+    "cutoff_all": 17.9,
+    "cutoff_female": 17.7
+  },
+  {
+    "course_name": "Bachelor of Science (External)",
+    "course_code": "SCX",
+    "cutoff_all": 20.2,
+    "cutoff_female": 22.1
+  },
+  {
+    "course_name": "Bachelor of Science (Economics) Day",
+    "course_code": "SEC",
+    "cutoff_all": 15.9,
+    "cutoff_female": 17.3
+  },
+  {
+    "course_name": "Bachelor of Sports Science (Exercise Science)",
+    "course_code": "SPS",
+    "cutoff_all": 21.2,
+    "cutoff_female": 21.3
+  },
+  {
+    "course_name": "Bachelor of Science in Quantity Surveying (Day)",
+    "course_code": "SQS",
+    "cutoff_all": 44.8,
+    "cutoff_female": 42.1
+  },
+  {
+    "course_name": "BSc in Software Engineering (Evening)",
+    "course_code": "SSE",
+    "cutoff_all": 43.6,
+    "cutoff_female": 39.8
+  },
+  {
+    "course_name": "Bachelor of Sports Science (Sports Management)",
+    "course_code": "SSM",
+    "cutoff_all": 17.8,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Statistics (Day)",
+    "course_code": "STA",
+    "cutoff_all": 29.7,
+    "cutoff_female": 29.7
+  },
+  {
+    "course_name": "Bachelor of Transport & Logistic Mgt (Eve) MUBS",
+    "course_code": "TLM",
+    "cutoff_all": 15.6,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Travel & Tourism Mgt (Evening)",
+    "course_code": "TTM",
+    "cutoff_all": 17.3,
+    "cutoff_female": null
+  },
+  {
+    "course_name": "Bachelor of Veterinary Medicine (Day)",
+    "course_code": "VET",
+    "cutoff_all": 43.6,
+    "cutoff_female": 40.2
+  }
+]

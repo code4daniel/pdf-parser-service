@@ -1,0 +1,46 @@
+ ┌─────────────────────┐
+ │  React Admin Panel  │  ← Admin selects a PDF and enters university name
+ └─────────┬───────────┘
+           │
+           ▼
+ ┌──────────────────────────────┐
+ │   Node.js Express Backend    │
+ │                              │
+ │  POST /api/upload-cutoff     │
+ │  - Receives FormData         │
+ │  - Sends it to Python        │
+ └─────────┬────────────────────┘
+           │ HTTP (FormData: PDF + university)
+           ▼
+ ┌────────────────────────────────┐
+ │     Python Flask Microservice  │
+ │     /parse endpoint            │
+ │  - Parses PDF with pdfplumber  │
+ │  - Extracts course + cutoffs   │
+ │  - Returns JSON                │
+ └─────────┬──────────────────────┘
+           │ JSON response: cutoffs[]
+           ▼
+ ┌──────────────────────────────┐
+ │ Node.js saves to MongoDB     │
+ │ or returns JSON to frontend  │
+ └──────────────────────────────┘
+           │
+           ▼
+ ┌──────────────────────────────┐
+ │ React displays extracted     │
+ │ cutoffs or confirms upload   │
+ └──────────────────────────────┘
+
+
+
+
+pdf-parser-service/
+├── app.py                     # Flask app entry point
+├── requirements.txt           # Python dependencies
+├── uploads/                   # Temporary uploaded PDFs
+├── utils/
+│   └── pdf_extractor.py       # PDF parsing logic (with pdfplumber)
+├── output/                    # Optional: JSON results for debugging
+├── .gitignore                 # Ignore uploads, __pycache__, etc.
+└── README.md                  # Setup instructions
